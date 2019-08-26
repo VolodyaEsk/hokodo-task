@@ -1,6 +1,4 @@
-=================
-Small Library API
-=================
+### Small Library API
 
 Install
 -------
