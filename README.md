@@ -20,3 +20,6 @@ To run tests and get info about code coverage:
 
 
 For more info about command see Makefile.
+
+
+Solutions of the exercises can be found in `exercises` folder.
